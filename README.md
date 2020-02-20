@@ -9,7 +9,7 @@ To run the program, link all classes to the run file and use the following code 
     $ #!/usr/bin/env python3.6
 At the terminal, run the following command:
 
-    $ ./run.py
+    $ ./app.py
 ## Behavior Driven Development
 
 Given
